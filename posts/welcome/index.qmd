@@ -71,7 +71,7 @@ One of the key strengths of data science is its ability to optimize marketing ca
 
 **Example**: If you’re running a paid advertising campaign on Facebook, you might use predictive models to determine which demographics are most likely to convert and automatically adjust your budget allocation toward these groups. Over time, as you collect more data, the campaign can become more efficient, delivering better results without increasing costs.
 
-![Through using data science and statistical methodologies such as predictive modeling, your campaigns can be optimized leading to profit and customer conversion graphs and with increasing trends.](https://res.craft.do/user/full/ae45dc62-7518-dfa5-89cc-f46c70f95c47/doc/10684475-d54c-41d4-bbb0-566f3d78b255/A57076D7-78EE-492E-8B89-CE7200665604_2/I7BT6cHlUpVQirLyhpGraWDhEyfzu288SyCcp5xCEl8z/Image.tiff)
+![Through using data science and statistical methodologies such as predictive modeling, your campaigns can be optimized leading to revenue and customer conversion graphs with increasing trends.](https://res.craft.do/user/full/ae45dc62-7518-dfa5-89cc-f46c70f95c47/doc/10684475-d54c-41d4-bbb0-566f3d78b255/A57076D7-78EE-492E-8B89-CE7200665604_2/I7BT6cHlUpVQirLyhpGraWDhEyfzu288SyCcp5xCEl8z/Image.tiff)
 
 A/B testing is another common practice in marketing that benefits from data science. By using algorithms to analyze test results, you can determine which version of an ad, landing page, or email generates the best results, optimizing your content and strategy accordingly.
 
@@ -133,7 +133,9 @@ Below, I've added links that go deeper into the concepts we discussed; please ex
 
 ### **For Descriptive Analytics:**
 
-1. **Google Analytics – Getting Started with Data Analysis**[Google Analytics: Data Analysis](https://analytics.google.com/analytics/academy/)
+1. **Google Analytics – Getting Started with Data Analysis**
+
+    [Google Analytics: Data Analysis](https://analytics.google.com/analytics/academy/)
 	- Google’s free courses provide a solid introduction to using descriptive analytics through Google Analytics, offering practical examples and lessons.
 2. [Investopedia: Descriptive Analytics](https://www.investopedia.com/terms/d/descriptive-analytics.asp)
 
